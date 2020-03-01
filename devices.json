@@ -1,0 +1,16 @@
+[
+   {
+      "name": "Redmi 5 Plus",
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Dhimas Bagus Prayoga (Kry9toN)",
+            "maintainer_url": "https://github.com/Kry9toN",
+            "xda_thread": "https://t.me/KomodOSRom/38"
+         }
+      ]
+   }
+]
