@@ -12,5 +12,19 @@
             "xda_thread": "https://t.me/KomodOSRom/38"
          }
       ]
+   },
+   {
+      "name": "Redmi Note 8",
+      "brand": "Xiaomi",
+      "codename": "ginkgo",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Ahmad Thoriq Najahi",
+            "maintainer_url": "https://github.com/Najahiiii",
+            "xda_thread": "Undefined"
+         }
+      ]
    }
 ]
