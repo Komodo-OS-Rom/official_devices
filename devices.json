@@ -26,5 +26,19 @@
             "xda_thread": "Undefined"
          }
       ]
+    },
+    {
+      "name": "POCO F1",
+      "brand": "Xiaomi",
+      "codename": "beryllium",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Harun Al Rasyid",
+            "maintainer_url": "https://github.com/goodmeow",
+            "xda_thread": "Undefined"
+         }
+      ]
    }
 ]
